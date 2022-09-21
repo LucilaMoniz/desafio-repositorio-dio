@@ -1,0 +1,11 @@
+cd acessa a pasta
+
+git remote add origin (link github) para acessar um repositório do git
+
+git config –global user.name “seu nome” para logar
+
+git config –global user.email “seu e-mail” para logar
+
+push origin master leva as alterações do repositório local para o remoto
+
+pull origin master puxa as alterações do repositório remoto para o local
